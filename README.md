@@ -11,4 +11,6 @@ Algorytmika
 Linki do zrealizowanych programów:
 
 1. [Alorytm 1]()
-2. [Alorytm 2]()
+2. [Alorytm 2](
+    2.3.2
+)
